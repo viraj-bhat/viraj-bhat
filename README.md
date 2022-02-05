@@ -1,5 +1,5 @@
-### Hi 👋 I'm Viraj Bhat. 
-## Undergraduate student at BMSCE, Bengaluru
+## Hi 👋 I'm Viraj Bhat. 
+### Undergraduate student at BMSCE, Bengaluru
 <!--
 **viraj-bhat/viraj-bhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
